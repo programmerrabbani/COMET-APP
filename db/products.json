@@ -1,0 +1,137 @@
+[
+    {
+        "id" : 1,
+        "photo" : "https://images.unsplash.com/photo-1619914777583-ce0b7830d2a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGJsYXplcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+        "title" : "PREMIUM NOTCH BlAZER",
+        "price" : "$ 69.87",
+        "delPrice" : "$ 85.87",
+        "rating" : " rating : 8.9",
+        "reviews" : "113 Reviews",
+        "images" :[
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg"
+        ]
+    },
+    {
+        "id" : 2,
+        "photo" : "https://images.unsplash.com/photo-1617137984095-74e4e5e3613f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmxhemVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "title" : "PREMIUM SUIT BlAZER",
+        "price" : "$ 85.65",
+        "delPrice" : "$ 95.87",
+        "rating" : " rating : 8.5",
+        "reviews" : " 118 Reviews ",
+        "images" :[
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg"
+        ]
+    },
+    {
+        "id" : 3,
+        "photo" : "https://fiver.media/images/mu/2018/03/21/light-blue-sweatshirt-77690-2.jpg",
+        "title" : "VINTAGE SWEATSHIRT",
+        "price" : "$ 89.97",
+        "delPrice" : "$ 99.87",
+        "rating" : " rating : 7.9",
+        "reviews" : " 215 Reviews ",
+        "images" :[
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg"
+        ]
+    },
+    {
+        "id" : 4,
+        "photo" : "https://planetfashion.imgix.net/img/app/product/5/531472-4037782.jpg?auto=format",
+        "title" : "LONGLINE JERSEY JACKET",
+        "price" : "$ 25.38",
+        "delPrice" : "$ 38.87",
+        "rating" : " rating : 6.8",
+        "reviews" : " 355 Reviews ",
+        "images" :[
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg"
+        ]
+    },
+    {
+        "id" : 5,
+        "photo" : "https://media.boohoo.com/i/boohoo/fzz11654_black_xl_3/female-black-plunge-tailored-fitted-blazer",
+        "title" : "TAILORED BLAZER",
+        "price" : "$ 39.56",
+        "delPrice" : "$ 55.87",
+        "rating" : " rating : 6.5",
+        "reviews" : " 125 Reviews ",
+        "images" :[
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg"
+        ]
+    },
+    {
+        "id" : 6,
+        "photo" : "https://i0.wp.com/dylan.lifebylee.com/wp-content/uploads/2017/10/IMG_0382.jpg?fit=1000%2C1500&ssl=1",
+        "title" : "OVERCOAT IN CAMEL",
+        "price" : "$ 32.99",
+        "delPrice" : "$ 45.87",
+        "rating" : " rating : 5.8",
+        "reviews" : " 145 Reviews ",
+        "images" :[
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg"
+        ]
+    },
+    {
+        "id" : 7,
+        "photo" : "https://cdn.shopify.com/s/files/1/0265/3221/6931/products/1ef09b39ce0041918902323f62439991-Max.jpg?v=1658504443&width=1000",
+        "title" : "JACKET WITH FRINGE",
+        "price" : "$ 75.54",
+        "delPrice" : "$ 92.87",
+        "rating" : " rating : 5.2",
+        "reviews" : " 85 Reviews ",
+        "images" :[
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg"
+        ]
+    },
+    {
+        "id" : 8,
+        "photo" : "https://media.boohoo.com/i/boohoo/fzz10877_sage_xl_3/female-sage-fitted-longline-blazer",
+        "title" : "NOTCH BLAZER IN LONGLINE",
+        "price" : "$ 48.35",
+        "delPrice" : "$ 65.87",
+        "rating" : " rating : 4.8",
+        "reviews" : " 95 Reviews ",
+        "images" :[
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg"
+        ]
+    },
+    {
+        "id" : 9,
+        "photo" : "https://www.simonjersey.com/images/mens-tweed-waistcoat-navy-p2488-196348_image.jpg",
+        "title" : "WAISTCOAT IN NAVY",
+        "price" : "$ 44.95",
+        "delPrice" : "$ 53.87",
+        "rating" : " rating : 4.5",
+        "reviews" : " 115 Reviews",
+        "images" :[
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg",
+            "https://i.ibb.co/0qn7Yhq/photo-1619914777583-ce0b7830d2a6.jpg"
+        ]
+    }
+]

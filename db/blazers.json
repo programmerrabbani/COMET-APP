@@ -1,0 +1,65 @@
+[
+    {
+        "id" : 1,
+        "category" : "BLAZERS",
+        "photo" : "https://5.imimg.com/data5/FE/FL/MY-41514382/2017-designer-men-suit-jackets-autumn-slimblazer-men-dress-500x500.jpg",
+        "title" : " Blue Blazer",
+        "price" : "$ 69.87"
+    },
+    {
+        "id" : 2,
+        "category" : "BLAZERS",
+        "photo" : "https://5.imimg.com/data5/RP/GQ/MY-38642310/men-s-party-wear-blazer-1000x1000.jpg",
+        "title" : "Black Blazer",
+        "price" : "$ 85.87"
+    },
+    {
+        "id" : 3,
+        "category" : "BLAZERS",
+        "photo" : "https://5.imimg.com/data5/JQ/VX/PX/SELLER-71256094/mens-casual-blazer-500x500.jpg",
+        "title" : "Cotton Blazer",
+        "price" : "$ 75.87"
+    },
+    {
+        "id" : 4,
+        "category" : "BLAZERS",
+        "photo" : "https://5.imimg.com/data5/QT/TX/MY-20389107/men-s-blazer-500x500.jpg",
+        "title" : "Blue Slim Blazer",
+        "price" : "$ 55.87"
+    },
+    {
+        "id" : 5,
+        "category" : "BLAZERS",
+        "photo" : "https://5.imimg.com/data5/PR/TH/MY-21947894/mens-blazer-500x500.jpg",
+        "title" : "Formal Blazer",
+        "price" : "$ 44.87"
+    },
+    {
+        "id" : 6,
+        "category" : "BLAZERS",
+        "title" : "Cotton Women Blazer",
+        "photo" : "https://5.imimg.com/data5/SELLER/Default/2021/4/KL/MT/XH/57926816/women-blazer-500x500.jpg",
+        "price" : "$ 42.87"
+    },
+    {
+        "id" : 7,
+        "category" : "BLAZERS",
+        "photo" : "https://4.imimg.com/data4/BE/RO/MY-4275671/women-s-blazer-500x500.jpg",
+        "title" : "Women's Blazer",
+        "price" : "$ 35.87"
+    },
+    {
+        "id" : 8,
+        "category" : "BLAZERS",
+        "photo" : "https://3.imimg.com/data3/IB/QS/GLADMIN-41346/womens-blazer-500x500.jpg",
+        "title" : "Women's Blazer",
+        "price" : "$ 39.87"
+    },
+    {
+        "id" : 9,
+        "category" : "BLAZERS",
+        "photo" : "https://5.imimg.com/data5/HJ/BQ/MY-13067836/ladies-formal-uniform-blazer-500x500.jpg",
+        "title" : "Cotton Ladies Designer Blazer",
+        "price" : "$ 32.87"
+    }
+]
